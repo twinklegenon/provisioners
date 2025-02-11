@@ -1,6 +1,7 @@
 # Provisioners in Terraform 🚀🚀
 
 ## Local Exec and Remote Exec Provisioners
+* This demo installs the nginx website on remote server and create a text file in local machine
 
 ### Steps to Set Up:
 
