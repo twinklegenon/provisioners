@@ -1,13 +1,10 @@
-# provisioners
-Local exec and Remote exec provisioners in Terraform
+# Provisioners in Terraform
 
-Configure the access keys first
-Use terraform init to initialize
-Use terraform fmt to fix format
-Use terraform validate for syntax validation
-Use terraform plan before applying
-Use terraform apply -auto-approve
-Use terraform destroy -auto- approve after the demo
+## Local Exec and Remote Exec Provisioners
 
+### Steps to Set Up:
 
-Thanks!
+1. **Configure the access keys first**  
+2. **Initialize Terraform:**  
+   ```sh
+   terraform init
